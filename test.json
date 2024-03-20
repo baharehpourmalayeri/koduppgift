@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Rafael",
+        "last": "Román"
+      },
+      "location": {
+        "street": {
+          "number": 3941,
+          "name": "Calle de Alberto Aguilera"
+        },
+        "city": "La Coruña",
+        "state": "Aragón",
+        "country": "Spain",
+        "postcode": 66503,
+        "coordinates": {
+          "latitude": "-32.8965",
+          "longitude": "-154.9097"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "rafael.roman@example.com",
+      "login": {
+        "uuid": "dc76361a-a73b-4295-91e5-0536fa395583",
+        "username": "whitegoose148",
+        "password": "asdfjkl",
+        "salt": "PDmRlJtM",
+        "md5": "4acc302ea8b2dfbd7dc1fd59e7a35b25",
+        "sha1": "b180c5d8d6fab0322a9cda707932a758baeb9ce9",
+        "sha256": "f1ba39c97dc5f1ef6c951b7144c4946488e0962d4b78c2a48da14c669078b938"
+      },
+      "dob": {
+        "date": "1964-11-12T06:59:28.275Z",
+        "age": 59
+      },
+      "registered": {
+        "date": "2006-02-10T18:04:52.831Z",
+        "age": 18
+      },
+      "phone": "996-263-352",
+      "cell": "694-973-849",
+      "id": {
+        "name": "DNI",
+        "value": "27564375-G"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/43.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+      },
+      "nat": "ES"
+    }
+  ],
+  "info": {
+    "seed": "6bfb5daf0566261c",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
