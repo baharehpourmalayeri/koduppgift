@@ -2,7 +2,7 @@
 # Koduppgift
 
 ## Description
-Koduppgift is a web apllication which get a random user by every click and displays it . 
+Koduppgift is a web apllication which gets a random user by every click and displays it . 
 
 ## Technologies Used
 - React.js
